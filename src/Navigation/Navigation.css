@@ -1,0 +1,27 @@
+.navi{
+    background:#2A2E35 ;
+    color: white;
+    box-shadow: 0 8px 32px 0 #454a52;
+    backdrop-filter: blur( 1.5px );
+    -webkit-backdrop-filter: blur( 1.5px );
+}
+.signbtn{
+    background-color:#09C372 ;
+    color: white;
+    border-radius: 2em;
+    border: none;
+    width: 7em;
+}
+.lgnbtn{
+    
+    color: white;
+    border-radius: 2em;
+    border: none;
+    width: 7em;
+    background:#454a52;
+   
+    backdrop-filter: blur( 1.5px );
+    -webkit-backdrop-filter: blur( 1.5px );
+    
+}
+

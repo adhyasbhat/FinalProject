@@ -1,0 +1,76 @@
+.logbtn{
+    background-color:#09C372 ;
+    color: white;
+    border-radius: 1em;
+    border: none;
+    width: 7em;
+    height: 2.5em;
+}
+.logbtn:hover{
+    background-color: white;
+    color: #09C372;
+    border: 2px solid #09C372;
+    font-weight: 600;
+}
+.wrapper{
+    height: 100vh;
+}
+.login{
+    width: 500px;
+    height: 550px;
+    gap:20px;    
+    background:#2A2E35 ;
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 40px;
+    box-shadow: 0 8px 32px 0 #454a52;
+    
+align-items: center;
+align-content: center;
+
+}
+.sub{
+    color: #09C372 !important;
+}
+.form{
+    position: relative;
+}
+.form input{
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+    outline: none;
+    padding: 10px;
+    color: white;
+    background: transparent;
+    font-size: 20px;
+}
+.form .loginLabel{
+    position: absolute !important;
+    top: 10px;
+    left: 28%;
+    cursor: text !important;
+    text-transform: capitalize;
+    font-size: 18px;
+    transition: top .5s;
+    color: white;
+}
+.form input:focus ~ .loginLabel{
+    top: -14px;
+    background: #09C372;
+    padding: 1.5px;
+    color: white;
+
+}
+.form input:focus {
+    border: 1px solid #09C372;
+}
+.create{
+    color: white;
+}
+.create a{
+    color:#2dc3e2;
+}
+.heading{
+    color: white;
+}
