@@ -1,0 +1,24 @@
+.mainChart{
+    height: 100%;
+    background:#2A2E35 ;
+}
+.titleChart{
+    background:#353a41 ;
+    height: 2em;
+    color: white;
+}
+.bodyChart{
+    height: 32em;
+    
+}
+.textChart{
+    height: 5em;
+    background:#353a41 ;
+}
+.textbox{
+    background: transparent;
+    width: 100%;
+    height: 100%;
+    border: none;
+    color: white;
+}

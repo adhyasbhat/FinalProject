@@ -1,0 +1,17 @@
+.sidebar{
+    background:#2A2E35 !important;
+    height: 100vh !important;
+}
+.container{
+    max-width: 1888px !important;
+    
+}
+.bars{
+    color: white ;
+}
+.icon{
+    color: #09C372;
+}
+.link_text{
+    color: #09C372;
+}

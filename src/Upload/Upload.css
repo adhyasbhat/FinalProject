@@ -1,0 +1,25 @@
+.upload{
+    background:#2A2E35 ;
+    box-shadow: 0 8px 32px 0 #454a52;
+}
+.uploadHere{
+    height: 6em;
+}
+.uploadTitle{
+    background:#353a41 ;
+    height: 2em;
+    color: white;
+}
+.line{
+    color: white;
+}
+.uploadbtn{
+background: transparent !important;
+border: none !important;
+color: white !important;
+}
+.postbtn{
+    background-color:#09C372 !important ;
+    color: white !important;
+    
+}
